@@ -60,8 +60,9 @@ Selangor
 - Bachelor’s Degree in Computer Science, Software Engineering, Information Technology or equivalent
 - Minimum 5 years of experience in software development in high-energy, productive teams
 - Experienced in system architecture design, design review and code review
-- Strong proficiency of OOP concept, .NET Framework, .NET Core, T-SQL, Web API, MVC, C#/VB.Net, C++, and Angular
-- Experience using common Source Code Management tools, such as SVN, GIT
+- Strong proficiency of OOP concept, plain PHP, Laravel, MySQL, Bootstrap, Javascript and JQuery
+- Able to work in standardized environments using local containers which provide your applications and services, such as Docker
+- Experience using common Source Code Management tools, such as GIT
 - Experience in API and dependency integration
 - Ideally, experienced in building financial services products (payments, banking, insurance etc)
 - Experienced in building application with AWS services
