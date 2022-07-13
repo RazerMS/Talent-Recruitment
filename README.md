@@ -19,6 +19,17 @@ We have openings for those looking for a career. Join us now!
 <img src="https://user-images.githubusercontent.com/19460508/176819018-5a949d54-eb97-4a75-aa74-17d91768db20.png" />
 </p>
 
+## Views From Our Insiders
+- Peer to peer learning and casual discussions are commonly seen in every corner in our office, even in the pantry!  
+- Regardless of the person's personal position or ranking, we encourage a flat hierarchical structure, instead of the traditional software development methodology which has sequential structure and strict hierarchical order in its teams.  
+- We do not throw a big project and expect an intern to complete all features by him/herself, we would say our environment is closer to adopting Agile and Lean methodology (as opposed to Waterfall), where we would split all the features of a big project into smaller chunks.  
+- Lean thinking, teams increase speed by managing flow (usually by limiting work-in-process), whereas in Agile, teams emphasize small batch sizes to deliver quickly (often in sprints).  
+- All in all, you can expect we play like an eSports team, as aligned with our parent company Razer Inc's branding, where each player has his/her own role, not everyone has to be a Carry (Tanker or Fighter or Initiator), we would appreciate a good Support role (Healer) also, or even a Silent/Stealth Assassin who complete missions in the dark with low profile.  
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/19460508/178680822-55c9071c-5098-424e-a55f-4ce40005b597.png" width="500px"/>
+</p>
+
 # Current Openings  
 ## Senior AWS System Administrator  
 RAZER MERCHANT SERVICES SDN. BHD.  
