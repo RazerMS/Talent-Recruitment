@@ -81,7 +81,7 @@ Selangor
 - Well organized and able to meet tight deadline with good quality
 - Able to work independently, detail-oriented, and have strong problem-solving skills
 
-## Android Developer
+## Mobile Developer
 RAZER MERCHANT SERVICES SDN. BHD.  
 Selangor
 
@@ -91,7 +91,7 @@ Selangor
 - Focus on UI design principles and make application work intuitively.
 - Analyse and optimize code for security, quality, efficiency, and performance.
 - Look out for new technologies and development tools that make you or the product better.
-- Publish applications to Appstore, TestFlight and Firebase.
+- Publish applications to AppStore, TestFlight and Firebase.
 - Work with the QC team to help design test plans and support testing tools and processes
 - Comfortable with working remotely and collaborating with team online when required.
 - Create and maintain documentation as needed.
@@ -103,7 +103,7 @@ Selangor
 - Experience in API and dependency integration
 - Experience using common Source Code Management tools, such as GIT.
 - Experience working in an agile or lean software development environment
-- Fundamental appreciation of UIUX concepts
+- Fundamental appreciation of UI/UX concepts
 - Good understanding of OOP and SOLID principles
 - Good understanding of security concepts and session management (SSO)
 - Deep hands-on technical expertise and problem-solving skills
