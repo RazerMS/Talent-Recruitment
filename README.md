@@ -31,7 +31,7 @@ We have openings for those looking for a career. Join us now!
 </p>
 
 # Current Openings  
-## Senior AWS System Administrator  
+## Senior AWS System Administrator cum DBA  
 RAZER MERCHANT SERVICES SDN. BHD.  
 Selangor  
 
@@ -81,7 +81,7 @@ Selangor
 - Well organized and able to meet tight deadline with good quality
 - Able to work independently, detail-oriented, and have strong problem-solving skills
 
-## Mobile Developer
+## Senior Mobile Developer
 RAZER MERCHANT SERVICES SDN. BHD.  
 Selangor
 
