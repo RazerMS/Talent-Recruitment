@@ -16,7 +16,7 @@ We have openings for those looking for a career. Join us now!
 <img src="https://user-images.githubusercontent.com/19460508/176818951-facb945d-1131-4aed-9a34-7f38c2c30f26.png" />
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/19460508/176819018-5a949d54-eb97-4a75-aa74-17d91768db20.png" />
+<!--img src="https://user-images.githubusercontent.com/19460508/176819018-5a949d54-eb97-4a75-aa74-17d91768db20.png" /-->
 </p>
 
 ## Views From Our Insiders
